@@ -2,4 +2,4 @@
 my_string = "Hello, world!"
 
 # Print the value of the string
-print(my-string)
+print(my_string)

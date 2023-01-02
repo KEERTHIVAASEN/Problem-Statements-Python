@@ -1,6 +1,6 @@
 # Declare two variables and assign them Boolean values
 var1 = True
-var2 = False
+var2 = Fals
 
 # Print the value of each variable
 print("var1:", var1)
